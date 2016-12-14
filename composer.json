@@ -8,5 +8,8 @@
             "email": "chrish@xigen.co.uk"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": ["lib/sagepay.php"]
+    }
 }

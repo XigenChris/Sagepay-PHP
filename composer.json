@@ -1,0 +1,12 @@
+{
+    "name": "xigen/sagepay-php",
+    "description": "Fork of http://www.sagepay.co.uk/support/find-an-integration-document/form-integration",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Chris Hilsdon",
+            "email": "chrish@xigen.co.uk"
+        }
+    ],
+    "require": {}
+}
